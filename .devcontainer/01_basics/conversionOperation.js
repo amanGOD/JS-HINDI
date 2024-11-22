@@ -6,7 +6,22 @@ let valueInNumber = Number(score)
  //console.log(valueInNumber);
  let isloggedIn=1
  let booleanIsLoggedIn = Boolean(isloggedIn)
- console.log(booleanIsLoggedIn);
+ //console.log(booleanIsLoggedIn);
+
+ let str1 = "hello"
+ let str2 =" Aman"
+ let str3 = str1+str2
+ console.log(str3);
+ console.log("1" + 2);
+ console.log(1+ "2");
+ console.log("1"+ 2+2);
+ console.log(1+2+"2");
+ console.log(+true);
+ 
+
+ 
+
+ 
  
  
  
